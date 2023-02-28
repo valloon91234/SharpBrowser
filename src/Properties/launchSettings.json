@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SharpBrowser": {
+      "commandName": "Project",
+      "commandLineArgs": "https://translate.google.com/?sl=auto&tl=ko&op=translate"
+    }
+  }
+}
